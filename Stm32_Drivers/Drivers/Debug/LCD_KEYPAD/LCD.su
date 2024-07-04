@@ -1,0 +1,9 @@
+LCD.c:12:6:Send	16	static
+LCD.c:21:6:HAL_LCD_Init	24	static
+LCD.c:30:6:HAL_LCD_DispOnOff	16	static
+LCD.c:35:6:HAL_LCD_Cursor	16	static
+LCD.c:41:6:HAL_LCD_Clear	8	static
+LCD.c:46:6:HAL_LCD_WriteChar	16	static
+LCD.c:51:6:HAL_LCD_WriteString	24	static
+LCD.c:58:6:HAL_LCD_CursorOrDispShift	16	static
+LCD.c:63:6:HAL_LCD_CursorPosition	16	static
